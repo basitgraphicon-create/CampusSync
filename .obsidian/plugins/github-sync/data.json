@@ -2,6 +2,6 @@
   "remoteURL": "https://github.com/basitgraphicon-create/CampusSync.git",
   "gitLocation": "",
   "syncinterval": 10,
-  "isSyncOnLoad": true,
-  "checkStatusOnLoad": true
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": false
 }
