@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CampusSync SRS.md",
+                "file": "schemas/Student/Student Attendance Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CampusSync SRS"
+              "title": "Student Attendance Table"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "1a04e40531ac4796",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CampusSync SRS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CampusSync SRS"
             }
           }
         ]
@@ -203,6 +207,12 @@
   },
   "active": "1a04e40531ac4796",
   "lastOpenFiles": [
+    "docs/implementation/Migration Guide.md",
+    "schemas/Data Dictionary.md",
+    "schemas/Student/Student Attendance Table.md",
+    "schemas/student.md",
+    "docs/functional_requirements/Student Lifecycle.md",
+    "CampusSync SRS.md",
     "schemas/Student/Student Table.md",
     "tag_vault.ps1",
     "schemas/Timetable Schema.md",
@@ -217,7 +227,6 @@
     "schemas/Communication/Notification Table.md",
     "schemas/Communication",
     "schemas/Staff/Staff Attendance Table.md",
-    "schemas/Student/Student Attendance Table.md",
     "schemas/Student",
     "schemas/Security/Audit Log Table.md",
     "schemas/Security/Permission Table.md",
@@ -230,11 +239,7 @@
     "schemas/Finance/Fee Structure Table.md",
     "schemas/Finance",
     "schemas/Exam/Grade Scale Table.md",
-    "schemas/Exam/Marks Table.md",
-    "schemas/Exam/Exam Definition Table.md",
     "schemas/Exam",
-    "schemas/Staff/Leave Balance Table.md",
-    "schemas/Staff/Salary Structure Table.md",
     "schemas/Staff",
     "schemas/Academic",
     "docs/implementation",
