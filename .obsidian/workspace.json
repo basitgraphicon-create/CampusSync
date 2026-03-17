@@ -6,6 +6,7 @@
       {
         "id": "2d6a2c52d7e6360d",
         "type": "tabs",
+        "dimension": 14.911167512690355,
         "children": [
           {
             "id": "db9c2d557a9a79f8",
@@ -26,6 +27,7 @@
       {
         "id": "bc26fa6a29854576",
         "type": "tabs",
+        "dimension": 85.08883248730965,
         "children": [
           {
             "id": "1a04e40531ac4796",
@@ -40,8 +42,21 @@
               "icon": "lucide-file",
               "title": "CampusSync SRS"
             }
+          },
+          {
+            "id": "ee5569e1b7ac7197",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-18 02.10.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-18 02.10.31.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,14 +220,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1a04e40531ac4796",
+  "active": "ee5569e1b7ac7197",
   "lastOpenFiles": [
+    "Pasted Image 20260318021039_944.png",
+    "CampusSync SRS.md",
+    "Excalidraw/Drawing 2026-03-18 02.10.31.excalidraw.md",
+    "Excalidraw",
     "docs/implementation/Migration Guide.md",
     "schemas/Data Dictionary.md",
     "schemas/Student/Student Attendance Table.md",
     "schemas/student.md",
     "docs/functional_requirements/Student Lifecycle.md",
-    "CampusSync SRS.md",
     "schemas/Student/Student Table.md",
     "tag_vault.ps1",
     "schemas/Timetable Schema.md",
@@ -236,13 +254,10 @@
     "schemas/Finance/Fee Collection Table.md",
     "schemas/Finance/Student Ledger Table.md",
     "schemas/Finance/Fee Head Table.md",
-    "schemas/Finance/Fee Structure Table.md",
     "schemas/Finance",
-    "schemas/Exam/Grade Scale Table.md",
     "schemas/Exam",
     "schemas/Staff",
     "schemas/Academic",
-    "docs/implementation",
     "Pasted Image 20260224045611_085.png",
     "Pasted Image 20260226162502_532.png"
   ]
