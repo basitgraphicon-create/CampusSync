@@ -39,10 +39,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-25 17.25.01.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-03-18 02.10.31.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-25 17.25.01.excalidraw"
+              "title": "Drawing 2026-03-18 02.10.31.excalidraw"
             }
           }
         ],
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "130251d385837c5f",
@@ -213,8 +212,8 @@
   },
   "active": "2d95f4d3f52ab46b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-03-18 02.10.31.excalidraw.md",
     "Excalidraw/Drawing 2026-03-25 17.25.01.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-18 02.10.31.excalidraw.md",
     "Pasted Image 20260318021039_944.png",
     "CampusSync SRS.md",
     "Excalidraw",
