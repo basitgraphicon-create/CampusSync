@@ -74,6 +74,20 @@
             }
           },
           {
+            "id": "99c39b7dd015f3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "bef8475122d57547",
             "type": "leaf",
             "state": {
@@ -110,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -274,10 +288,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ae09f6844b296851",
+  "active": "99c39b7dd015f3e0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-07-28 16.15.31.excalidraw.md",
     "Whatsapp.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2026-07-28 16.15.31.excalidraw.md",
     "Excalidraw/Drawing 2026-03-18 02.10.31.excalidraw.md",
     "Excalidraw/Drawing 2026-03-25 17.25.01.excalidraw.md",
     "Excalidraw/Drawing 2026-04-11 19.01.59.excalidraw.md",
@@ -307,7 +322,6 @@
     "schemas/Staff/Staff Attendance Table.md",
     "schemas/Student",
     "schemas/Security/Audit Log Table.md",
-    "schemas/Security/Permission Table.md",
     "schemas/Security",
     "schemas/Finance",
     "schemas/Exam",
