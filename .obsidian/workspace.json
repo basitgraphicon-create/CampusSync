@@ -60,6 +60,18 @@
             }
           },
           {
+            "id": "ae09f6844b296851",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-28 16.15.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-28 16.15.31.excalidraw"
+            }
+          },
+          {
             "id": "bef8475122d57547",
             "type": "leaf",
             "state": {
@@ -96,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -260,9 +272,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a88c38bb14f97cc9",
+  "active": "ae09f6844b296851",
   "lastOpenFiles": [
     "Whatsapp.md",
+    "Excalidraw/Drawing 2026-07-28 16.15.31.excalidraw.md",
     "Excalidraw/Drawing 2026-03-18 02.10.31.excalidraw.md",
     "Excalidraw/Drawing 2026-03-25 17.25.01.excalidraw.md",
     "Excalidraw/Drawing 2026-04-11 19.01.59.excalidraw.md",
@@ -293,7 +306,6 @@
     "schemas/Student",
     "schemas/Security/Audit Log Table.md",
     "schemas/Security/Permission Table.md",
-    "schemas/Security/Role Table.md",
     "schemas/Security",
     "schemas/Finance",
     "schemas/Exam",
