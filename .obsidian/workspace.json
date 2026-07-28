@@ -63,12 +63,14 @@
             "id": "ae09f6844b296851",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-28 16.15.31.excalidraw.md"
+                "file": "Whatsapp.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-28 16.15.31.excalidraw"
+              "icon": "lucide-file",
+              "title": "Whatsapp"
             }
           },
           {
@@ -274,8 +276,8 @@
   },
   "active": "ae09f6844b296851",
   "lastOpenFiles": [
-    "Whatsapp.md",
     "Excalidraw/Drawing 2026-07-28 16.15.31.excalidraw.md",
+    "Whatsapp.md",
     "Excalidraw/Drawing 2026-03-18 02.10.31.excalidraw.md",
     "Excalidraw/Drawing 2026-03-25 17.25.01.excalidraw.md",
     "Excalidraw/Drawing 2026-04-11 19.01.59.excalidraw.md",
